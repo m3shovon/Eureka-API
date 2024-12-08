@@ -23,3 +23,6 @@ django-admin-interface
 # django-ckeditor
 
 # djangorestframework-authtoken
+
+# ++++++ Hide Admin ++++++++
+django-hide-admin

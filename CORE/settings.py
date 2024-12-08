@@ -20,6 +20,7 @@ INSTALLED_APPS = [
     # 'jazzmin',
     "admin_interface",
     "colorfield",
+    # 'hide_admin.apps.HideAdminConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
