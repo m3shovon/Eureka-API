@@ -1,0 +1,25 @@
+# Project
+Django==4.0
+# for .env
+python-decouple==3.8
+# PostgreSQL Database
+# psycopg2==2.9.7
+psycopg2==2.9.9
+psycopg2-binary
+
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-filter
+
+# Image Upload
+pillow
+
+# UI Interface
+django-jazzmin
+django-cache-cleaner
+django-admin-interface
+# Django CKEditor For Blog
+# django-ckeditor
+
+# djangorestframework-authtoken
