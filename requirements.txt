@@ -26,3 +26,5 @@ django-admin-interface
 
 # ++++++ Hide Admin ++++++++
 django-hide-admin
+
+# ++++++++++ SEO ++++++++++
